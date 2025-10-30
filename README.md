@@ -1,3 +1,1 @@
 # learningSolidity
-test
-test
